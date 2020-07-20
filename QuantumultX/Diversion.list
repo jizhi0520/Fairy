@@ -7,6 +7,6 @@ DOMAIN-SUFFIX, gdmf.apple.com, reject
 DOMAIN-SUFFIX, updates-http.cdn-apple.com, reject
 DOMAIN-SUFFIX, xp.apple.com, reject
 
-# 阻止某些网站
+# 阻止网站
 DOMAIN-SUFFIX, 342zh.com, reject
 DOMAIN-SUFFIX, 6345lu.com, reject
