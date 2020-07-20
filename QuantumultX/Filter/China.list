@@ -1,7 +1,6 @@
+# Author: ConnersHua  Update: 2020.06.29
+# 网站: https://github.com/ConnersHua/Profiles/tree/master/Quantumult/X/Filter
 # China Area Network
-# > 360
-DOMAIN-SUFFIX,qhres.com,DIRECT
-DOMAIN-SUFFIX,qhimg.com,DIRECT
 # > Akamai
 DOMAIN-SUFFIX,akadns.net,DIRECT
 # DOMAIN-SUFFIX,akamai.net,DIRECT
