@@ -6,6 +6,3 @@ DOMAIN-SUFFIX, mesu.apple.com, reject
 DOMAIN-SUFFIX, gdmf.apple.com, reject
 DOMAIN-SUFFIX, updates-http.cdn-apple.com, reject
 DOMAIN-SUFFIX, xp.apple.com, reject
-
-# 阻止网站
-DOMAIN-SUFFIX, 342zh.com, reject
