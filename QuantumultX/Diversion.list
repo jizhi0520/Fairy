@@ -1,0 +1,8 @@
+# 去除YouTube++底部广告
+host-suffix, ehg-youtube.hitbox.com, reject
+
+# 阻止ios更新
+DOMAIN-SUFFIX, mesu.apple.com, reject
+DOMAIN-SUFFIX, gdmf.apple.com, reject
+DOMAIN-SUFFIX, updates-http.cdn-apple.com, reject
+DOMAIN-SUFFIX, xp.apple.com, reject
