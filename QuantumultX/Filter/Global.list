@@ -1,3 +1,6 @@
+# 作者： ConnersHua 更新日期： 2020.06.29
+# 网站： https://github.com/ConnersHua/Profiles/tree/master/Quantumult/X/Filter
+
 # (DNS Cache Pollution Protection)
 # > Google
 DOMAIN-SUFFIX,ampproject.org,PROXY
