@@ -9,3 +9,10 @@ DOMAIN-SUFFIX, mesu.apple.com, reject
 DOMAIN-SUFFIX, gdmf.apple.com, reject
 DOMAIN-SUFFIX, updates-http.cdn-apple.com, reject
 DOMAIN-SUFFIX, xp.apple.com, reject
+
+# 阻止App Store联网
+DOMAIN-SUFFIX, apps.apple.com, reject
+DOMAIN-SUFFIX, itunes.apple.com, reject
+DOMAIN-SUFFIX, itunes-apple.com.akadns.net, reject
+DOMAIN-SUFFIX, mzstatic.com, reject
+DOMAIN, ppq.apple.com, reject
