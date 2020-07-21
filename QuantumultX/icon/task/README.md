@@ -9,11 +9,11 @@
 
 图标索引
 
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/1.png)
+![示例](https://raw.githubusercontent.com/jizhi07/SY/master/QuantumultX/image/1.png)
 
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/2.png)
+![示例](https://raw.githubusercontent.com/jizhi07/SY/master/QuantumultX/image/2.png)
 
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/3.png)
+![示例](https://raw.githubusercontent.com/jizhi07/SY/master/QuantumultX/image/3.png)
 
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/4.png)
+![示例](https://raw.githubusercontent.com/jizhi07/SY/master/QuantumultX/image/4.png)
 
