@@ -57,5 +57,5 @@ Github: https://github.com/Koolson/Qure/tree/master/IconSet
 </details>
 
 ## 效果图预览
-[查看大图](https://raw.githubusercontent.com/Koolson/Qure/master/Other/Qure_Preview_All.png)<br>
-![Image text](https://raw.githubusercontent.com/Koolson/Qure/master/Other/Qure_Preview_All.png)
+[查看大图](https://github.com/jizhi07/SY/raw/master/QuantumultX/image/Policy_Preview_All.png<br>
+![Image text](https://github.com/jizhi07/SY/raw/master/QuantumultX/image/Policy_Preview_All.png)
