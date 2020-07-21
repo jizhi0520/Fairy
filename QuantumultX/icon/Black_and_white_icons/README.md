@@ -1,8 +1,3 @@
-
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/头部.png)
-
-## mini项目
-
 由于Quantumult X 1.07版本新增了机场订阅等的img-url特性，本项目由此应运而生
 
 本项目是为Quantumult X订阅制作图标，用于QuantumultX 1.07及以上版本中
