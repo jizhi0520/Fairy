@@ -1,4 +1,5 @@
 作者： Orz-3
+
 Github: https://github.com/Orz-3/mini
 
 由于Quantumult X 1.07版本新增了机场订阅等的img-url特性，本项目由此应运而生
