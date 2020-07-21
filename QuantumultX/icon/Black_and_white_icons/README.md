@@ -13,7 +13,7 @@ Github: https://github.com/Orz-3/mini
 ####  1、订阅链接中引用
   
   打开QuanX 配置文件-编辑，找到［server_remote］字段，在想要增加图标的相应订阅中修改，在enable＝true之前加上
-  `img-url=https://raw.githubusercontent.com/Orz-3/mini/master/文件名.png`
+  `img-url=https://raw.githubusercontent.com/jizhi07/SY/master/QuantumultX/icon/Black_and_white_icons/文件名.png`
   注意此句和前后句都要用英文逗号隔开，并且逗号后先要空一格
   
 
