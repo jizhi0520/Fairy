@@ -1,5 +1,8 @@
 适用于于QuantumultX 1.0.10（285）及以上
 
+作者： Orz-3 
+网站： https://github.com/Orz-3/task
+
 使用方法：
 
   打开QuanX 配置文件-编辑，找到［task_local］字段，在想要增加图标的相应签到脚本段落中修改，在enable＝true之前加上
