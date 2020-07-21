@@ -24,40 +24,7 @@
   **完整示例：**`static=policy-name-1, Sample-A, Sample-B, Sample-C, img-url=http://example.com/icon.png`
 
 ##### 图标索引，最上方为图标展示，下面第一行为对应机场的名称，第二行为文件名，文件名中.png前方的部分就是使用方法中需要修改的部分
-
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/2.4-1.png)
-
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/2.4-2.png)
-
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/2.4-3.png)
-
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/2.4-4.png)
-
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/2.4-5.png)
-
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/彩蛋.png)
-
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/2.4-彩蛋.png)
-
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/策略.png)
-
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/策略组1.png)
-
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/策略组2.png)
-
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/策略组3.png)
-
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/策略组4.png)
-
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/地区.png)
-
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/地区1.png)
-
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/地区2.png)
-
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/地区3.png)
-
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/Task.png)
+mini/none/Task.png)
 
 ![示例](https://raw.githubusercontent.com/Orz-3/mini/none/-1.png)
 
