@@ -14,9 +14,9 @@ Github: https://github.com/Koolson/Qure/tree/master/IconSet
 *该操作以 Quantumult X v1.0.8-build249 为例*<br>
 1. 在 [常规图标预览](https://github.com/Koolson/Qure#%E6%95%88%E6%9E%9C%E5%9B%BE%E9%A2%84%E8%A7%88)、[归档图标预览](https://raw.githubusercontent.com/Koolson/Qure/master/Other/Qure_Preview_Archived.png) 或 [IconSet 页面](https://github.com/Koolson/Qure/tree/master/IconSet) 中找到需要的策略组图标并记下**图标名称**；<br>
 2. 在 Quantumult X 的“配置文件-编辑”中找到[policy]下的策略组字段，并在该策略组的最后一个节点后方加上：<br>
-`img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/图标名称.png`<br>
+`img-url=https://raw.githubusercontent.com/jizhi07/SY/master/QuantumultX/icon/policy_icon/文件名.png`<br>
 例如：<br>
-`static=Hong Kong, 🇭🇰01, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Hong_Kong.png`<br>
+`static=Hong Kong, 🇭🇰01, img-url=https://raw.githubusercontent.com/jizhi07/SY/master/QuantumultX/icon/policy_icon/Domestic.png`<br>
 
 ```ruby
 注意：此处“img”前的英文逗号和空格以及“Hong_Kong.png”图标名称中的下划短横线和字母大小写
