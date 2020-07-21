@@ -26,12 +26,12 @@
 ##### 图标索引，最上方为图标展示，下面第一行为对应机场的名称，第二行为文件名，文件名中.png前方的部分就是使用方法中需要修改的部分
 mini/none/Task.png)
 
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/-1.png)
+![示例](https://raw.githubusercontent.com/jizhi07/SY/master/QuantumultX/image/-1.png)
 
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/-2.png)
+![示例](https://raw.githubusercontent.com/jizhi07/SY/master/QuantumultX/image/-2.png)
 
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/-3.png)
+![示例](https://raw.githubusercontent.com/jizhi07/SY/master/QuantumultX/image/-3.png)
 
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/-4.png)
+![示例](https://raw.githubusercontent.com/jizhi07/SY/master/QuantumultX/image/-4.png)
 
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/-5.png)
+![示例](https://raw.githubusercontent.com/jizhi07/SY/master/QuantumultX/image/-5.png)
