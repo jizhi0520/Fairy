@@ -40,7 +40,7 @@ Github: https://github.com/Koolson/Qure/tree/master/IconSet
 
 ## 补充说明
 1. 转载请注明出处，谢谢！<br>
-2. 归档图标：图标默认不展示，但仍支持订阅；具体可查看 [归档图标预览](https://raw.githubusercontent.com/Koolson/Qure/master/Other/Qure_Preview_Archived.png) 及归档图标名称；<br>
+2. 归档图标：图标默认不展示，但仍支持订阅；具体可查看 [归档图标预览](https://raw.githubusercontent.com/jizhi07/SY/master/QuantumultX/image/Policy_Preview_Archived.png) 及归档图标名称；<br>
 3. 需要新增策略图标，请提 Issues 或 Telegram 中说明图标名称并附上相关图标资源链接；<br>
 
 图标名录：<br>
