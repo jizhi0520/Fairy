@@ -34,8 +34,8 @@ Github: https://github.com/Koolson/Qure/tree/master/IconSet
 
 1. 打开"文件"应用后，依次进入“我的 iPhone 或 iCloud Drive→Quantumult X→Images”；<br>
 2. 将**个人设定**的策略组名称 **同名的.png** 图标文件(.png图标文件可在 [IconSet 页面](https://github.com/Koolson/Qure/tree/master/IconSet)根据个人需求自行下载)粘贴到 Images 文件夹内，重启 Quantumult X 即可见到效果。<br>
- [查看大图](https://raw.githubusercontent.com/jizhi07/SY/master/QuantumultX/image/Local_Icon.png)<br>
-![Image text](https://raw.githubusercontent.com/jizhi07/SY/master/QuantumultX/image/Local_Icon.png)
+ [查看大图](https://raw.githubusercontent.com/jizhi07/SY/master/Icon/image/%E2%91%A0.png)<br>
+![Image text](https://raw.githubusercontent.com/jizhi07/SY/master/Icon/image/%E2%91%A0.png)
 
 ## 补充说明
 1. 归档图标：图标默认不展示，但仍支持订阅；具体可查看 [归档图标预览](https://raw.githubusercontent.com/jizhi07/SY/master/QuantumultX/image/Policy_Preview_Archived.png) 及归档图标名称；<br>
