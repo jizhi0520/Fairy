@@ -10,7 +10,7 @@
 ### 方式一：远程图标<br>
 *跨设备同步策略组图标，及时获取图标更新*<br>
 *该操作以 Quantumult X v1.0.8-build249 为例*<br>
-1. 在 [常规图标预览](https://github.com/Koolson/Qure#%E6%95%88%E6%9E%9C%E5%9B%BE%E9%A2%84%E8%A7%88)、[归档图标预览](https://raw.githubusercontent.com/jizhi07/SY/master/Icon/image/%2B4.png) 或 [policy 页面](https://github.com/Koolson/Qure/tree/master/IconSet) 中找到需要的策略组图标并记下**图标名称**；<br>
+1. 在 [常规图标预览](https://github.com/Koolson/Qure#%E6%95%88%E6%9E%9C%E5%9B%BE%E9%A2%84%E8%A7%88)、[归档图标预览](https://raw.githubusercontent.com/jizhi07/SY/master/Icon/image/%2B4.png) 或 [policy 页面](https://github.com/jizhi07/SY/tree/master/Icon/policy) 中找到需要的策略组图标并记下**图标名称**；<br>
 2. 在 Quantumult X 的“配置文件-编辑”中找到[policy]下的策略组字段，并在该策略组的最后一个节点后方加上：<br>
 `img-url=https://raw.githubusercontent.com/jizhi07/SY/master/Icon/policy/图标名称.png`<br>
 例如：<br>
