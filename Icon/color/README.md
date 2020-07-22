@@ -13,11 +13,11 @@ Github: https://github.com/Orz-3/task
 
 图标索引
 
-![示例](https://raw.githubusercontent.com/jizhi07/SY/master/QuantumultX/image/1.png)
+![示例](https://github.com/jizhi07/SY/blob/master/Icon/image/1.png)
 
-![示例](https://raw.githubusercontent.com/jizhi07/SY/master/QuantumultX/image/2.png)
+![示例](https://github.com/jizhi07/SY/blob/master/Icon/image/2.png)
 
-![示例](https://raw.githubusercontent.com/jizhi07/SY/master/QuantumultX/image/3.png)
+![示例](https://github.com/jizhi07/SY/blob/master/Icon/image/3.png)
 
-![示例](https://raw.githubusercontent.com/jizhi07/SY/master/QuantumultX/image/4.png)
+![示例](https://github.com/jizhi07/SY/blob/master/Icon/image/4.png)
 
