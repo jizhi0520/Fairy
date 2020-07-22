@@ -1,4 +1,4 @@
-hostname = s.youtube.com, www.youtube.com, youtubei.googleapis.com, interface.music.163.com
+hostname = s.youtube.com, m.youtube.com, www.youtube.com, youtubei.googleapis.com, interface.music.163.com
 
 # Redirect Google Search Service
 ^http:\/\/www\.google\.cn url 302
