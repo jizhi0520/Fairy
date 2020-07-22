@@ -2,7 +2,7 @@ hostname = s.youtube.com, www.youtube.com, youtubei.googleapis.com, interface.mu
 
 # url-rewrite
 # Redirect Google Search Service
-^http:\/\/www\.google\.cn url 302 https://www.google.com
+#^http:\/\/www\.google\.cn url 302 https://www.google.com
 
 # Youtube
 ^https?+:\/\/.+?\.googlevideo\.com\/.+?(?>&oad|ctier) url reject-200
