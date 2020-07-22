@@ -43,5 +43,5 @@ Github: https://github.com/Koolson/Qure/tree/master/IconSet
 
 
 ## 效果图预览
-[查看大图](https://github.com/jizhi07/SY/raw/master/QuantumultX/image/Policy_Preview_All.png)<br>
-![Image text](https://github.com/jizhi07/SY/raw/master/QuantumultX/image/Policy_Preview_All.png)
+[查看大图](https://github.com/jizhi07/SY/raw/master/Icon/image/%E2%91%A0.png)<br>
+![Image text](https://github.com/jizhi07/SY/raw/master/Icon/image/%E2%91%A0.png)
