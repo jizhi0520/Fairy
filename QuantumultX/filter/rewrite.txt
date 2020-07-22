@@ -1,4 +1,4 @@
-hostname = s.youtube.com, www.youtube.com, youtubei.googleapis.com
+hostname = s.youtube.com, www.youtube.com, xyst.yuanfudao.com, youtubei.googleapis.com
 
  #Youtube
 ^https?+:\/\/.+?\.googlevideo\.com\/.+?(?>&oad|ctier) url reject-200
