@@ -11,7 +11,7 @@ Github: https://github.com/Orz-3/mini
 ####  1、订阅链接中引用
   
   打开QuanX 配置文件-编辑，找到［server_remote］字段，在想要增加图标的相应订阅中修改，在enable＝true之前加上
-  `img-url=https://raw.githubusercontent.com/jizhi07/SY/master/QuantumultX/icon/Black_and_white_icons/文件名.png`
+  `img-url=https://raw.githubusercontent.com/jizhi07/SY/master/Icon/black_and_white/文件名.png`
   注意此句和前后句都要用英文逗号隔开，并且逗号后先要空一格
   
 
@@ -21,7 +21,7 @@ Github: https://github.com/Orz-3/mini
   
   **2.1** 如果通过as-policy生成策略组，会直接引用和订阅链接字段同样的图标，且无法更改
   
-  **2.2** 如果通过UI生成策略组，或者想直接在策略组中使用本项目图标，请打开QuanX 配置文件-编辑，找到［policy］字段，并在相应策略组中末尾，加上`img-url=https://raw.githubusercontent.com/jizhi07/SY/master/QuantumultX/icon/Black_and_white_icons/文件名.png`  注意同样要用英文逗号与前面句子隔开，并在逗号后面空一格
+  **2.2** 如果通过UI生成策略组，或者想直接在策略组中使用本项目图标，请打开QuanX 配置文件-编辑，找到［policy］字段，并在相应策略组中末尾，加上`img-url=https://raw.githubusercontent.com/jizhi07/SY/master/Icon/black_and_white/文件名.png`  注意同样要用英文逗号与前面句子隔开，并在逗号后面空一格
 
   **完整示例：**`static=policy-name-1, Sample-A, Sample-B, Sample-C, img-url=http://example.com/icon.png`
 
