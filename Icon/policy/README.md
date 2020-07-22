@@ -38,7 +38,7 @@
 
 ## 补充说明
 1. 转载请注明出处，谢谢！<br>
-2. 归档图标：图标默认不展示，但仍支持订阅；具体可查看 [归档图标预览](https://raw.githubusercontent.com/Koolson/Qure/master/Other/Qure_Preview_Archived.png) 及归档图标名称；<br>
+2. 归档图标：图标默认不展示，但仍支持订阅；具体可查看 [归档图标预览](https://raw.githubusercontent.com/jizhi07/SY/master/Icon/image/%2B4.png) 及归档图标名称；<br>
 3. ~~推荐使用 Hua姐的 [神机规则](https://github.com/ConnersHua/Profiles/blob/master/README.md) - [Filter Remote](https://github.com/ConnersHua/Profiles/tree/master/Quantumult/X) 与 Qure 搭配以强化 Quantumult X 使用体验；~~<br>
 </details>
 
