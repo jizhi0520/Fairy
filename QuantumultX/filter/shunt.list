@@ -2,11 +2,11 @@
 host-suffix, ehg-youtube.hitbox.com, reject
 
 # 阻止App Store联网
-#DOMAIN-SUFFIX, apps.apple.com, reject
-#DOMAIN-SUFFIX, itunes.apple.com, reject
-#DOMAIN-SUFFIX, itunes-apple.com.akadns.net, reject
-#DOMAIN-SUFFIX, mzstatic.com, reject
-#DOMAIN, ppq.apple.com, reject
+DOMAIN-SUFFIX, apps.apple.com, reject
+DOMAIN-SUFFIX, itunes.apple.com, reject
+DOMAIN-SUFFIX, itunes-apple.com.akadns.net, reject
+DOMAIN-SUFFIX, mzstatic.com, reject
+DOMAIN, ppq.apple.com, reject
 
 # 阻止某些网站
 DOMAIN-SUFFIX, ads.youtube.com, reject
