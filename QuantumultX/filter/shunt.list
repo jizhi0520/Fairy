@@ -9,7 +9,8 @@ DOMAIN-SUFFIX, mzstatic.com, reject
 DOMAIN, ppq.apple.com, reject
 
 # 阻止某些网站
-DOMAIN-SUFFIX, 342zh.com, reject
+DOMAIN-SUFFIX,ads.youtube.com, reject
+DOMAIN-KEYWORD,googleads,reject
 
 # 阻止ios更新
 DOMAIN-SUFFIX, mesu.apple.com, reject
