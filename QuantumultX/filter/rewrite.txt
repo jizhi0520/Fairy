@@ -1,4 +1,5 @@
 hostname = act.vip.iqiyi.com, api.m.jd.com, s.youtube.com, m.youtube.com, www.youtube.com, youtubei.googleapis.com, *.googlevideo.com, api.weibo.cn, app.bilibili.com, iface.iqiyi.com, manga.bilibili.com, mp.weixin.qq.com, ms.jr.jd.com, weibointl.api.weibo.cn, www.icourse163.org, xyz.cnki.net, youtubei.googleapis.com, interface.music.163.com
+
 # 爱奇艺
 ^https?+:\/\/iface\.iqiyi\.com\/api\/getNewAdInfo url reject-200
 ^https?+:\/\/.+?\/(?>mixer|track2)\? url reject-200
@@ -10,7 +11,8 @@ hostname = act.vip.iqiyi.com, api.m.jd.com, s.youtube.com, m.youtube.com, www.yo
 ^https?+:\/\/manga\.bilibili\.com\/twirp\/comic\.v\d\.Comic\/Flash url reject-200
 
 # Redirect Google Search Service
-^http:\/\/www\.google\.cn url 302 https://www.google.com
+^http:\/\/www\.google\.cn url 302 
+https://www.google.com
 
 # 京东
 ^https?+:\/\/api\.m\.jd\.com\/client\.action\?functionId=start$ url reject-200
