@@ -1,10 +1,10 @@
 hostname = s.youtube.com, m.youtube.com, www.youtube.com, youtubei.googleapis.com, *.googlevideo.com, api.weibo.cn, app.bilibili.com, ms.jr.jd.com, weibointl.api.weibo.cn, www.icourse163.org, interface.music.163.com
 
 # 爱奇艺
-^https?+:\/\/iface\.iqiyi\.com\/api\/getNewAdInfo url reject-200
-^https?+:\/\/.+?\/(?>mixer|track2)\? url reject-200
-^https?+:\/\/act\.vip\.iqiyi\.com\/interact\/api\/show\.do url reject-200
-^https?+:\/\/act\.vip\.iqiyi\.com\/interact\/api\/v2\/show url reject-200
+#^https?+:\/\/iface\.iqiyi\.com\/api\/getNewAdInfo url reject-200
+#^https?+:\/\/.+?\/(?>mixer|track2)\? url reject-200
+#^https?+:\/\/act\.vip\.iqiyi\.com\/interact\/api\/show\.do url reject-200
+#^https?+:\/\/act\.vip\.iqiyi\.com\/interact\/api\/v2\/show url reject-200
 
 # 哔哩哔哩
 ^https?+:\/\/app\.bilibili\.com\/x\/v\d\/splash\/ url reject-200
