@@ -10,27 +10,18 @@ hostname = act.vip.iqiyi.com, api.m.jd.com, s.youtube.com, m.youtube.com, www.yo
 ^https?+:\/\/app\.bilibili\.com\/x\/v\d\/splash\/ url reject-200
 ^https?+:\/\/manga\.bilibili\.com\/twirp\/comic\.v\d\.Comic\/Flash url reject-200
 
-# Redirect Google Search Service
-^http:\/\/www\.google\.cn url 302 
-https://www.google.com
-
 # 京东
 ^https?+:\/\/api\.m\.jd\.com\/client\.action\?functionId=start$ url reject-200
 ^https?+:\/\/b?dsp-x\.jd\.com\/adx\/ url reject-200
 ^https?+:\/\/ms\.jr\.jd\.com\/gw\/generic\/base\/na\/m\/adInfo url reject-200
 ^https?+:\/\/ms\.jr\.jd\.com\/gw\/generic\/aladdin\/na\/m\/getLoadingPicture url reject-200
 
-# Youtube
-^https?+:\/\/.+?\.googlevideo\.com\/.+?(?>&oad|ctier) url reject-200
-^https?+:\/\/\w+?\.youtube\.com\/api\/.+?ad url reject-200
-^https?+:\/\/\w+?\.youtube\.com\/p(?>agead|tracking) url reject-200
-^https?+:\/\/youtubei\.googleapis\.com\/youtubei\/.+?(?>ad|log)_ url reject-200
+# 全民K歌
+^https?+:\/\/y\.gtimg\.cn\/music\/common\/\/upload\/kg_ad\/.+?\d{3,4}+x\d{4} url reject-200
 
-# Youtube++
-^https?+:\/\/api\.catch\.gift\/api\/v\d\/pagead\/ url reject-200
-
-# 知网
-^https?+:\/\/xyz\.cnki\.net\/resourcev7\/api\/manualpush\/SlidsList$ url reject-200
+# Redirect Google Search Service
+^http:\/\/www\.google\.cn url 302 
+https://www.google.com
 
 # 腾讯视频
 ^https?+:\/\/vv\.video\.qq\.com\/getvmind\? url reject-200
@@ -44,8 +35,17 @@ https://www.google.com
 ^https?+:\/\/wbapp\.uve\.weibo\.com\/wbapplua\/wbpullad\.lua url reject-200
 ^https?+:\/\/weibointl\.api\.weibo\.cn\/portal\.php\?a=get_coopen_ads url reject-200
 
+# Youtube
+^https?+:\/\/.+?\.googlevideo\.com\/.+?(?>&oad|ctier) url reject-200
+^https?+:\/\/\w+?\.youtube\.com\/api\/.+?ad url reject-200
+^https?+:\/\/\w+?\.youtube\.com\/p(?>agead|tracking) url reject-200
+^https?+:\/\/youtubei\.googleapis\.com\/youtubei\/.+?(?>ad|log)_ url reject-200
+
+# Youtube++
+^https?+:\/\/api\.catch\.gift\/api\/v\d\/pagead\/ url reject-200
+
 # 中国大学慕课
 ^https?+:\/\/www\.icourse163\.org\/mob\/j\/v1\/mobRecommendRPCBean\.getMaxWeightAdvertisement\.rpc url reject-200
 
-# 全民K歌
-^https?+:\/\/y\.gtimg\.cn\/music\/common\/\/upload\/kg_ad\/.+?\d{3,4}+x\d{4} url reject-200
+# 知网
+^https?+:\/\/xyz\.cnki\.net\/resourcev7\/api\/manualpush\/SlidsList$ url reject-200
