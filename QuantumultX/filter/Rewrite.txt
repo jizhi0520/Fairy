@@ -20,8 +20,7 @@ hostname = act.vip.iqiyi.com, api.m.jd.com, s.youtube.com, m.youtube.com, www.yo
 ^https?+:\/\/y\.gtimg\.cn\/music\/common\/\/upload\/kg_ad\/.+?\d{3,4}+x\d{4} url reject-200
 
 # Redirect Google Search Service
-^http:\/\/www\.google\.cn url 302 
-https://www.google.com
+^http:\/\/www\.google\.cn url 302 https://www.google.com
 
 # 腾讯视频
 ^https?+:\/\/vv\.video\.qq\.com\/getvmind\? url reject-200
