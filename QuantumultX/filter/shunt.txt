@@ -1,3 +1,9 @@
+# Google
+DOMAIN-SUFFIX,doubleclick.net, reject
+DOMAIN-SUFFIX,googleadservices.com, reject
+DOMAIN-SUFFIX,googleadsserving.cn, reject
+DOMAIN-SUFFIX,googlesyndication.com, reject
+
 # 去除YouTube++底部广告
 host-suffix, ehg-youtube.hitbox.com, reject
 
