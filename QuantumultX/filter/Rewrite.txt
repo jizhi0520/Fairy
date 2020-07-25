@@ -1,13 +1,8 @@
-hostname =  s.youtube.com, m.youtube.com, www.youtube.com, youtubei.googleapis.com, *.googlevideo.com, *.tiktokv.com, *.byteoversea.com, *.musical.ly, *.snssdk.com
+hostname =  s.youtube.com, m.youtube.com, www.youtube.com, youtubei.googleapis.com, *.googlevideo.com
 
 # Redirect Google Search Service
 # Github: https://github.com/eHpo1/Rules/blob/master/QuantumultX/Rewrite.txt
 ^http:\/\/www\.google\.cn url 302 https://www.google.com
-
-# Tiktok
-(?<=_region=)CN(?=&) url 307 KR
-(?<=&app_version=)16..(?=.?.?&) url 307 1
-(?<=\?version_code=)16..(?=.?.?&) url 307 1
 
 # Youtube
 # Github: https://github.com/eHpo1/Rules/blob/master/QuantumultX/Rewrite.txt
