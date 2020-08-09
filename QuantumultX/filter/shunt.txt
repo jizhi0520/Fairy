@@ -13,4 +13,4 @@ DOMAIN-KEYWORD, googleads,reject
 
 # 阻止色情网站
 host, 342zh.com, reject
-DOMAIN-SUFFIX, pornhub.com, reject
+host, pornhub.com, reject
