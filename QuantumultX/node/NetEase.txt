@@ -1,7 +1,7 @@
-http=106.52.127.72:19951, fast-open=false, udp-relay=false, tag=网易云音乐1
-http=taron.top:100, fast-open=false, udp-relay=false, tag=网易云音乐2
-http=music.griouges.cn:39000, fast-open=false, udp-relay=false, tag=网易云音乐3
-http=aimer.one:2333, fast-open=false, udp-relay=false, tag=网易云音乐4
-shadowsocks=music.desperadoj.com:30003, method=aes-128-gcm, password=desperadoj.com_free_proxy_x80j, fast-open=false, udp-relay=false, tag=网易云音乐5
-shadowsocks=music.desperadoj.com:30001,method=aes-128-gcm,password=desperadoj.com_free_proxy_x80j, tag=网易云音乐6
-shadowsocks=music.desperadoj.com:30003,method=aes-128-gcm,password=desperadoj.com_free_proxy_x80j, tag=网易云音乐7
+http=106.52.127.72:19951, fast-open=false, udp-relay=false, tag=NetEase CloudMusic 1
+http=taron.top:100, fast-open=false, udp-relay=false, tag=NetEase CloudMusic 2
+http=music.griouges.cn:39000, fast-open=false, udp-relay=false, tag=NetEase CloudMusic 3
+http=aimer.one:2333, fast-open=false, udp-relay=false, tag=NetEase CloudMusic 4
+shadowsocks=music.desperadoj.com:30003, method=aes-128-gcm, password=desperadoj.com_free_proxy_x80j, fast-open=false, udp-relay=false, tag=NetEase CloudMusic 5
+shadowsocks=music.desperadoj.com:30001,method=aes-128-gcm,password=desperadoj.com_free_proxy_x80j, tag=NetEase CloudMusic 6
+shadowsocks=music.desperadoj.com:30003,method=aes-128-gcm,password=desperadoj.com_free_proxy_x80j, tag=NetEase CloudMusic 7
