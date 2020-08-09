@@ -10,3 +10,4 @@ host-suffix, ehg-youtube.hitbox.com, reject
 # 阻止某些网站
 DOMAIN-SUFFIX, ads.youtube.com, reject
 DOMAIN-KEYWORD, googleads,reject
+DOMAIN-SUFFIX,342zh.com, reject
