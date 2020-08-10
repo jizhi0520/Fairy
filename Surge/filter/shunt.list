@@ -8,16 +8,16 @@ DOMAIN-SUFFIX, mzstatic.com
 DOMAIN, ppq.apple.com
 
 # 阻止ios更新
-DOMAIN-SUFFIX, mesu.apple.com, reject
-DOMAIN-SUFFIX, gdmf.apple.com, reject
-DOMAIN-SUFFIX, updates-http.cdn-apple.com, reject
-DOMAIN-SUFFIX, xp.apple.com, reject
+DOMAIN-SUFFIX, mesu.apple.com
+DOMAIN-SUFFIX, gdmf.apple.com
+DOMAIN-SUFFIX, updates-http.cdn-apple.com
+DOMAIN-SUFFIX, xp.apple.com
 
 # 阻止某些网站
-DOMAIN-SUFFIX, ads.youtube.com, reject
-DOMAIN-KEYWORD, googleads,reject
+DOMAIN-SUFFIX, ads.youtube.com
+DOMAIN-KEYWORD, googleads
 
 # 阻止色情网站
-host, 342zh.com, reject
-host, pornhub.com, reject
-host, cn.pornhub.com, reject
+host, 342zh.com
+host, pornhub.com
+host, cn.pornhub.com
