@@ -1,11 +1,11 @@
 #Updated: 2020.08.09
 
 # 阻止App Store联网
-DOMAIN-SUFFIX, apps.apple.com, reject
-DOMAIN-SUFFIX, itunes.apple.com, reject
-DOMAIN-SUFFIX, itunes-apple.com.akadns.net, reject
-DOMAIN-SUFFIX, mzstatic.com, reject
-DOMAIN, ppq.apple.com, reject
+DOMAIN-SUFFIX, apps.apple.com
+DOMAIN-SUFFIX, itunes.apple.com
+DOMAIN-SUFFIX, itunes-apple.com.akadns.net
+DOMAIN-SUFFIX, mzstatic.com
+DOMAIN, ppq.apple.com
 
 # 阻止ios更新
 DOMAIN-SUFFIX, mesu.apple.com, reject
