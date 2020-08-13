@@ -1,14 +1,3 @@
-剩余流量：149.8GB = ss, ntt-co-jp.club, 10086, encrypt-method=chacha20-ietf, password=4hmsg3k5x17, udp-relay=true
-过期时间：2020-09-14 = ss, ntt-co-jp.club, 10086, encrypt-method=chacha20-ietf, password=4hmsg3k5x17, udp-relay=true
-1认准官网: airport-gov-cn.com = ss, 127.0.0.1, 45600, encrypt-method=rc4-md5, password=4hmsg3k5x17, udp-relay=true
-1请加入用户群: https://t.me/ssrcloud = ss, 127.0.0.1, 45600, encrypt-method=rc4-md5, password=4hmsg3k5x17, udp-relay=true
-ASYNCHRONOUS TRANSFERMODE 永久虚通路连接PVCC A01 = ss, pvcc01.clashcloud.org, 45600, encrypt-method=rc4-md5, password=4hmsg3k5x17, udp-relay=true
-IIJ 落地A = ss, 2001:e42:102:1521:160:16:90:182, 45600, encrypt-method=rc4-md5, password=4hmsg3k5x17, udp-relay=true
-IPV6 俄罗斯 A 1Gbps = ss, 2001:e42:102:1806:160:16:208:83, 45600, encrypt-method=rc4-md5, password=4hmsg3k5x17, udp-relay=true
-Netflix账户 C = vmess, chkuas@ssmuu.com 密码 20192019 订阅权益请勿泄漏, 443, username = c18190dc-41c9-3e80-9220-ccf64f48bffe
-NTTPC 落地结算C = ss, nttpc03.clashcloud.org, 45600, encrypt-method=rc4-md5, password=4hmsg3k5x17, udp-relay=true
-NTTPC 落地结算D = ss, nttpc04.clashcloud.org, 45600, encrypt-method=rc4-md5, password=4hmsg3k5x17, udp-relay=true
-V2节点 港区Netflix HBO BiliBili TVB = vmess, v2-hk01.clashcloud.org, 681, username = c18190dc-41c9-3e80-9220-ccf64f48bffe
 中国-俄罗斯 Новосиби́рская о́бласть Советский район Ростелеком IPLC A01	 = ss, ru01.clashcloud.org, 45600, encrypt-method=rc4-md5, password=4hmsg3k5x17, udp-relay=true
 中国-俄罗斯 Новосиби́рская о́бласть Советский район Ростелеком IPLC A03 = ss, ru03.clashcloud.org, 45600, encrypt-method=rc4-md5, password=4hmsg3k5x17, udp-relay=true
 中国-俄罗斯 Новосиби́рская о́бласть Советский район Ростелеком IPLC A04 = ss, ru02.clashcloud.org, 45600, encrypt-method=rc4-md5, password=4hmsg3k5x17, udp-relay=true
@@ -130,15 +119,6 @@ V2节点 港区Netflix HBO BiliBili TVB = vmess, v2-hk01.clashcloud.org, 681, us
 中国-香港 IPLC Equinix HK2 A 19 1Gbps Netflix HBO TVB = ss, sg19.clashcloud.org, 45600, encrypt-method=rc4-md5, password=4hmsg3k5x17, udp-relay=true
 中国-香港 IPLC Equinix HK2 A 20 1Gbps Netflix HBO TVB = ss, sg20.clashcloud.org, 45600, encrypt-method=rc4-md5, password=4hmsg3k5x17, udp-relay=true
 俄罗斯 A01 ipv6 = ss, 2a00:b700:2::7:262, 45600, encrypt-method=rc4-md5, password=4hmsg3k5x17, udp-relay=true
-回国线路 无法翻墙 A01 爱奇艺/QQ音乐/网易云VIP/腾讯视频 = ss, back01.clashcloud.org, 45600, encrypt-method=rc4-md5, password=4hmsg3k5x17, udp-relay=true
-回国线路 无法翻墙 A02 爱奇艺/QQ音乐/网易云VIP/腾讯视频 = ss, back02.clashcloud.org, 45600, encrypt-method=rc4-md5, password=4hmsg3k5x17, udp-relay=true
-回国线路 无法翻墙 A03 爱奇艺/QQ音乐/网易云VIP/腾讯视频 = ss, back03.clashcloud.org, 45600, encrypt-method=rc4-md5, password=4hmsg3k5x17, udp-relay=true
-回国线路 无法翻墙 A04 爱奇艺/QQ音乐/网易云VIP/腾讯视频 = ss, back04.clashcloud.org, 45600, encrypt-method=rc4-md5, password=4hmsg3k5x17, udp-relay=true
-回国线路 无法翻墙 A05 爱奇艺/QQ音乐/网易云VIP/腾讯视频 = ss, back05.clashcloud.org, 45600, encrypt-method=rc4-md5, password=4hmsg3k5x17, udp-relay=true
-回国线路 无法翻墙 A06 爱奇艺/QQ音乐/网易云VIP/腾讯视频 = ss, back06.clashcloud.org, 45600, encrypt-method=rc4-md5, password=4hmsg3k5x17, udp-relay=true
-回国线路 无法翻墙 A07 爱奇艺/QQ音乐/网易云VIP/腾讯视频 = ss, back07.clashcloud.org, 45600, encrypt-method=rc4-md5, password=4hmsg3k5x17, udp-relay=true
-回国线路 无法翻墙 A08 爱奇艺/QQ音乐/网易云VIP/腾讯视频 = ss, back08.clashcloud.org, 45600, encrypt-method=rc4-md5, password=4hmsg3k5x17, udp-relay=true
-因V2ray重大漏洞问题，暂时下架全部V2节点。 = vmess, v2-jp01.clashcloud.org, 681, username = c18190dc-41c9-3e80-9220-ccf64f48bffe
 巴西 Fortaleza Brasil Telecom A01 = ss, br01.clashcloud.org, 45600, encrypt-method=rc4-md5, password=4hmsg3k5x17, udp-relay=true
 巴西 Fortaleza Brasil Telecom A02 = ss, br02.clashcloud.org, 45600, encrypt-method=rc4-md5, password=4hmsg3k5x17, udp-relay=true
 巴西 Fortaleza Brasil Telecom A03 = ss, br03.clashcloud.org, 45600, encrypt-method=rc4-md5, password=4hmsg3k5x17, udp-relay=true
