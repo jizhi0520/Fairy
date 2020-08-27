@@ -9,7 +9,6 @@ const $ = new API("oneSay", true);
   let isAM = date.getHours() < 12 ? true : false;
   let title = "一" + (isAM ? " 言" : " 言") + (isAM ? " ☘️" : " 🍀");
   let subtitle = "";
-  let content = '唯一' + '  S Y🌸';
   let dayImg;
   if (obj && obj.length > 1) {
     let yi = obj[1];
