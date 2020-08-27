@@ -5,7 +5,7 @@ $tool.get('https://dict.youdao.com/infoline/style/cardList?mode=publish&client=m
     let isAM = date.getHours() < 12 ? true : false;
     let title = '一' + (isAM ? ' 言' : ' 言') + (isAM ? ' ☘️' : ' 🍀');
     let subtitle = '';
-    let content = '唯一' + '  小可爱🌸';
+    let content = '唯一' + '  S Y🌸';
     if (!error) {
         if (obj && obj.length > 1) {
             let yi = obj[1];
