@@ -30,3 +30,6 @@ DOMAIN-KEYWORD, googleads,reject
 host, 342zh.com, reject
 host, pornhub.com, reject
 host, cn.pornhub.com, reject
+
+# 阻止Siri联网
+DOMAIN,guzzoni.apple.com,PROXY
