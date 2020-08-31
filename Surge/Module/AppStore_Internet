@@ -1,5 +1,5 @@
-#!name=Block AppStore Software Update
-#!desc=屏蔽 AppStore Software 更新
+#!name=Block AppStore Internet
+#!desc=屏蔽 AppStore 联网
 #!system=ios
 
 [Rule]
