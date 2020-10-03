@@ -5,7 +5,7 @@ obj = {
 ",
   "license": {
     "status": "sub",
-    "expireTime": 3070928235000
+    "expireTime": 9999999999999
   },
   "_code": 200
 }
