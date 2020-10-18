@@ -1,0 +1,5 @@
+
+# Software Update
+# > iOS updates
+DOMAIN,appldnld.apple.com, reject
+DOMAIN,ns.itunes.apple.com, reject
