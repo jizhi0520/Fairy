@@ -1,0 +1,10 @@
+#!name=Block AppStore Internet
+#!desc=屏蔽 AppStore 联网
+#!system=ios
+
+[Rule]
+DOMAIN,apps.apple.com,REJECT
+DOMAIN-SUFFIX,itunes-apple.com.akadns.net,REJECT
+DOMAIN-SUFFIX,itunes.apple.com,REJECT
+DOMAIN-SUFFIX,mzstatic.com,REJECT
+DOMAIN-SUFFIX,ppq.apple.com,REJECT
