@@ -1,7 +1,0 @@
-#!name=Block SoftwareUpdate
-#!desc=屏蔽 SoftwareUpdate 联网
-#!system=ios
-
-[Rule]
-DOMAIN-SUFFIX,appldnld.apple.com, reject
-DOMAIN-SUFFIX,ns.itunes.apple.com,reject
