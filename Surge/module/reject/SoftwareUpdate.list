@@ -1,0 +1,3 @@
+# Software Update
+DOMAIN-SUFFIX,appldnld.apple.com, reject
+DOMAIN-SUFFIX,ns.itunes.apple.com,reject
