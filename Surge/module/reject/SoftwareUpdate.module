@@ -1,3 +1,7 @@
-# Software Update
+#!name=Block Software Update remind
+#!desc=屏蔽 Software Update 提醒
+#!system=ios
+
+[Rule]
 DOMAIN-SUFFIX,appldnld.apple.com, reject
 DOMAIN-SUFFIX,ns.itunes.apple.com,reject
