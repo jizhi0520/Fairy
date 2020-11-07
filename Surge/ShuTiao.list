@@ -1,0 +1,10 @@
+HK01 = ss, hk02.clashcloud.tech, 32592, encrypt-method=rc4-md5, password=SEgqy6
+HK02 = ss, hk09.clashcloud.tech, 32592, encrypt-method=rc4-md5, password=SEgqy6
+HK03 = ss, sg12.clashcloud.tech, 32592, encrypt-method=rc4-md5, password=SEgqy6
+TW01 = ss, tw03.clashcloud.tech, 32592, encrypt-method=rc4-md5, password=SEgqy6
+TUR01 = ss, trk01.clashcloud.tech, 32592, encrypt-method=rc4-md5, password=SEgqy6
+SGP01 = ss, sgp06.clashcloud.tech, 32592, encrypt-method=rc4-md5, password=SEgqy6
+UK02 = ss, uk01.clashcloud.tech, 32592, encrypt-method=rc4-md5, password=SEgqy6
+JP02 = ss, hr02.clashcloud.tech, 32592, encrypt-method=rc4-md5, password=SEgqy6
+KR01 = ss, kr02.clashcloud.tech, 32592, encrypt-method=rc4-md5, password=SEgqy6
+CN01 = ss, back02.clashcloud.tech, 32592, encrypt-method=rc4-md5, password=SEgqy6
