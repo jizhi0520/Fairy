@@ -25,8 +25,8 @@
 南非 02 = ss, nf05.clashcloud.club, 28341, encrypt-method=rc4-md5, password=VQVAjW
 英国 01 = ss, uk01.clashcloud.club, 28341, encrypt-method=rc4-md5, password=VQVAjW
 英国 02 = ss, uk05.clashcloud.club, 28341, encrypt-method=rc4-md5, password=VQVAjW
-中国 01 = ss, back02.clashcloud.club, 28341, encrypt-method=rc4-md5, password=VQVAjW
-中国 02 = ss, back05.clashcloud.club, 28341, encrypt-method=rc4-md5, password=VQVAjW
+上海 01 = ss, back02.clashcloud.club, 28341, encrypt-method=rc4-md5, password=VQVAjW
+上海 02 = ss, back05.clashcloud.club, 28341, encrypt-method=rc4-md5, password=VQVAjW
 俄罗斯 01 = ss, ru01.clashcloud.club, 28341, encrypt-method=rc4-md5, password=VQVAjW
 俄罗斯 02 = ss, ru04.clashcloud.club, 28341, encrypt-method=rc4-md5, password=VQVAjW
 新加坡 01 = ss, sgp01.clashcloud.club, 28341, encrypt-method=rc4-md5, password=VQVAjW
