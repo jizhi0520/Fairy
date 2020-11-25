@@ -3,6 +3,7 @@ shadowsocks=sg15.clashcloud.club:28341, method=rc4-md5, password=VQVAjW, fast-op
 shadowsocks=hgc02.clashcloud.club:28341, method=rc4-md5, password=VQVAjW, fast-open=false, udp-relay=false, tag=香港 03
 shadowsocks=hg03.clashcloud.club:28341, method=rc4-md5, password=VQVAjW, fast-open=false, udp-relay=false, tag=香港 04
 shadowsocks=iepl01.clashcloud.club:28341, method=rc4-md5, password=VQVAjW, fast-open=false, udp-relay=false, tag=香港 05
+shadowsocks=hkhe03.clashcloud.club:28341, method=rc4-md5, password=VQVAjW, fast-open=false, udp-relay=false, tag=香港 06
 shadowsocks=tw06.clashcloud.club:28341, method=rc4-md5, password=VQVAjW, fast-open=false, udp-relay=false, tag=台湾 01
 shadowsocks=twct05.clashcloud.club:28341, method=rc4-md5, password=VQVAjW, fast-open=false, udp-relay=false, tag=台湾 02
 shadowsocks=us12.clashcloud.club:28341, method=rc4-md5, password=VQVAjW, fast-open=false, udp-relay=false, tag=美国 01
